@@ -3,9 +3,9 @@ from telebot import types
 import random
 
 # --- НАСТРОЙКИ ---
-API_TOKEN = 'ВСТАВЬ_СВОЙ_ТОКЕН'
-ADMIN_ID = 5655100280 # Твой ID со скриншота
-CHANNEL_URL = 'https://t.me/твой_канал'
+API_TOKEN = '8480317600:AAFFTPcDLKH4RPRoLEnygaDKEvPMHp8d18U'
+ADMIN_ID = 6655100280 # Твой ID со скриншота
+CHANNEL_URL = 'https://t.me/+rPpnA12vQBc4MGZi'
 
 # На Bothost прокси НЕ НУЖНЫ, поэтому apihelper удаляем
 bot = telebot.TeleBot(API_TOKEN)
